@@ -99,3 +99,18 @@ th {
 ul {
     list-style-type: none;
 }
+.sunog {
+    width: 15px;
+}
+#A_:hover {
+background-color: green;
+}
+#B_:hover {
+    background-color: yellow;
+}
+#C_:hover {
+    background-color: brown;
+}
+#D_:hover {
+    background-color: red;
+}
